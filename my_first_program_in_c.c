@@ -1,3 +1,9 @@
+/*
+Title: My first program in c
+Project aim: Starting C programming
+by: SajadSojoudi@gmail.com
+*/
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 int main()
